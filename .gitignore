@@ -2,6 +2,7 @@ __pycache__/
 .venv/
 .idea/
 .github
+accounts_data/
 *.session*
 account.json
 !account.json.example
