@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+.idea/
+.github
+*.session*
+account.json
+!account.json.example
