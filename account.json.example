@@ -1,0 +1,14 @@
+{
+  "TELEGRAM_ACCOUNTS": [
+    {
+      "phone": "+99999999991",
+      "proxy": "https://user:pass@host:port"
+    },
+    {
+      "phone": "+555555555544"
+    },
+    {
+      "phone": "+555555555533"
+    }
+  ]
+}

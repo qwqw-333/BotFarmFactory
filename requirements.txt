@@ -1,0 +1,5 @@
+telethon
+requests
+brotli
+python-dateutil
+pycryptodome
