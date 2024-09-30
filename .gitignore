@@ -6,3 +6,4 @@ accounts_data/
 *.session*
 account.json
 !account.json.example
+debug.log
