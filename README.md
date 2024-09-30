@@ -56,7 +56,7 @@
   
   Пример записи:
   ```python
-  ENABLED_BOTS = [
+  DISABLED_BOTS = [
     'blum',
   ]
   ```
