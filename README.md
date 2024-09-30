@@ -17,12 +17,16 @@
 
 # Работа с фермой
 ## Логи
+
 * Просмотр логов фермы в реальном времени:
-  
-    `docker logs -f botfarmfactory`
+
+`docker logs -f botfarmfactory`
 * Просмотр последних _N_ логов:
 
-    `docker logs -n _N_ botfarmfactory`
+`docker logs -n _N_ botfarmfactory`
+
+Пример логов:
+![img.png](img.png)
 
 ## Управление
 * Остановить ферму:
