@@ -1,0 +1,10 @@
+services:
+  botfarmfactory:
+    build: .
+    container_name: botfarmfactory
+    restart: unless-stopped
+    volumes:
+      - ./accounts_data:/app/accounts_data
+      - ./account.json:/app/account.json:ro
+      - ./config.py:/app/config.py
+      - ./bots:/app/bots
