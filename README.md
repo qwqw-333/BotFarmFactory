@@ -14,6 +14,18 @@
 7. Запустить ферму в фоновом режиме `docker compose up -d`.
 
 ---
+# Обновление фермы
+* Остановить ферму `docker stop botfarmfactory`
+
+**Обновить**
+> [!NOTE]
+> Объязательно находится в папке проекта
+```bash
+git fetch origin
+git branch
+git log HEAD..origin/main --oneline
+git merge origin/main
+```
 
 # Работа с фермой
 ## Логи
