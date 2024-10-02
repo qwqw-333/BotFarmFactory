@@ -15,12 +15,10 @@
 
 ---
 # Обновление фермы
-* Остановить ферму `docker stop botfarmfactory`
-
-**Обновить**
 > [!NOTE]
 > Объязательно находится в папке проекта
 ```bash
+docker stop botfarmfactory
 git fetch origin
 git branch
 git log HEAD..origin/main --oneline
