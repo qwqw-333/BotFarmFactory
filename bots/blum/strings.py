@@ -55,9 +55,10 @@ TASK_CODES = {
     "What are Telegram Mini Apps?": "CRYPTOBLUM",
     "Say No to Rug Pull!": "SUPERBLUM",
     "What Are AMMs?": "CRYPTOSMART",
-    "$2.5M+ DOGS Airdrop": "HAPPYDOGS",
     "Liquidity Pools Guide": "BLUMERSSS",
+    "$2.5M+ DOGS Airdrop": "HAPPYDOGS",
+    "Doxxing? What's that?": "NODOXXING",
+    
     "Navigating Crypto": "HEYBLUM",
     "How To Analyze Crypto": "VALUE",
-
 }
