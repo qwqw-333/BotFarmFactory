@@ -4,6 +4,8 @@ services:
     container_name: botfarmfactory
     restart: unless-stopped
     volumes:
+      - /etc/timezone:/app/timezone:ro
+      - /etc/localtime:/app/localtime:ro
       - ./accounts_data:/app/accounts_data
       - ./account.json:/app/account.json:ro
       - ./config.py:/app/config.py
