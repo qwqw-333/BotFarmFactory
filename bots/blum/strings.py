@@ -58,7 +58,8 @@ TASK_CODES = {
     "Liquidity Pools Guide": "BLUMERSSS",
     "$2.5M+ DOGS Airdrop": "HAPPYDOGS",
     "Doxxing? What's that?": "NODOXXING",
-    
+    "Pre-Market Trading?": "WOWBLUM",
+
     "Navigating Crypto": "HEYBLUM",
     "How To Analyze Crypto": "VALUE",
 }
