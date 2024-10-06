@@ -59,7 +59,6 @@ TASK_CODES = {
     "$2.5M+ DOGS Airdrop": "HAPPYDOGS",
     "Doxxing? What's that?": "NODOXXING",
     "Pre-Market Trading?": "WOWBLUM",
-
-    "Navigating Crypto": "HEYBLUM",
     "How To Analyze Crypto": "VALUE",
+    "How to Memecoin?": "MEMEBLUM",
 }
