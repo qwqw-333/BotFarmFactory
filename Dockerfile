@@ -1,11 +1,8 @@
 # Python slim
 FROM python:3.12.5-slim-bookworm
 
-# Set variables
-ENV work_dir=/app
-
 # Workdir
-WORKDIR $work_dir
+WORKDIR /app
 
 # Copy requirements.txt
 COPY requirements.txt requirements.txt
