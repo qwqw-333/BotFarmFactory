@@ -62,6 +62,5 @@ TASK_CODES = {
     "How To Analyze Crypto": "VALUE",
     "How to Memecoin?": "MEMEBLUM",
     "Token Burning: How & Why?": "ONFIRE",
-    "Bitcoin Rainbow Chart?": "SUBLUM",
-
+    "Bitcoin Rainbow Chart?": "SOBLUM",
 }
