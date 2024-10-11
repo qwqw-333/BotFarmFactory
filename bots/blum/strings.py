@@ -63,4 +63,5 @@ TASK_CODES = {
     "How to Memecoin?": "MEMEBLUM",
     "Token Burning: How & Why?": "ONFIRE",
     "Bitcoin Rainbow Chart?": "SOBLUM",
+    "Crypto Terms. Part 1": "BLUMEXPLORER",
 }
