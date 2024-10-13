@@ -87,16 +87,6 @@ git merge origin/main
 > [!CAUTION]
 > Проект прододжает развивается на безвозмездной основе, и ваша поддержка поможет последователям не закидывать развитие проекта.
 
-#### Спасибо за автоматизацию:
-USDT:
-* TRC20 – `TRkdBYnSVxVCZvUf6p1UwikACYRz9jhCsc`
-* ERC20 – `0xd6cd649e271c1aec4dcccda17a98867c1b4d1671`
-
-#### Спасибо [разработчику](https://github.com/SoloWay9/BotFarmFactory):
-* Metamask (ETH/BNB/TRX/ARB/OP): `0xd0d94B12738E627441878710FB9520f18A33B019`
-* SOL: `GfpbfYZxsVrC3qx9S5KAtiZby5BxX3tF9wDQBAYVFfxR` 
-* TON: `UQC4PFXSqlTlrQOnnjDj8EQg8gWHNSNEyn2mv3r_kGKPCwTz`
-
 ---
 #### Cпасибо [автору проекта](https://github.com/TotalAwesome/BotFarmFactory):
 USDT:
